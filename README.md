@@ -4,7 +4,7 @@ with the help of the Youtube Channel "RyiSnow", "How to Make a 2D Game in Java" 
 IDE USED: **IntelliJ IDEA**
 
 # Controls
-* W, A, S, D - Move Cursor/Character
+* W, A, S, D - Move 
 
 # Preview
 
